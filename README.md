@@ -1,5 +1,5 @@
 # personal-dashboard
-# Still a work in progress
+#Still a work in progress
 This application is a customizable dashboard that allows users to interact with different widgets representing their current activities and interests. The widgets include:
 
 Books Widget: Search for and add books you're currently reading.
